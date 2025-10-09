@@ -1,3 +1,10 @@
+"""Binary Search
+It need a sorted list to continue the search.
+The it will start in the middle to find it match.
+Once it is greater that, it will be move in the right side,
+when lower than, it will move in the left side.
+"""
+
 # make sure that the array is sorted
 arr = [9, 7, 8, 6, 5, 4, 3, 2, 1]
 temp = 0
