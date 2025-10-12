@@ -1,6 +1,8 @@
 {
   "cSpell.words": [
     "crossentropy",
+    "lemmatize",
+    "Lemmatizer",
     "multinomial",
     "preds",
     "probas",
